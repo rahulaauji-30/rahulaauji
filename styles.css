@@ -53,3 +53,9 @@
 .slide6{
     background: linear-gradient(454deg, #c53de0, #2fddfc);
 }
+.container-2{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    
+}
